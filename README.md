@@ -1,12 +1,12 @@
-## Pedro Bastos Leite
+### Olá! Me chamo Pedro Bastos Leite
 
-Olá! Me chamo Pedro Bastos Leite, sou estudante de Ciência da Computação e Fullstack Developer.
+Sou estudante de Ciência da Computação e Fullstack Developer.  
+Aqui apresento um resumo das tecnologias que utilizo e alguns projetos públicos. Para mais detalhes, acesse meu site.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroLeite3005&show_icons=true&theme=tokyonight&card_width=420)](https://github.com/PedroLeite3005)
-
-Algumas das tecnologias que tenho conhecimento e projetos públicos:
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLeite3005&layout=compact&theme=tokyonight&card_width=420)](https://github.com/PedroLeite3005)
+<div style="display:flex; gap:8px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroLeite3005&show_icons=true&theme=tokyonight&card_width=420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLeite3005&layout=compact&theme=tokyonight&card_width=420"/>
+</div>
 
 ### Frontend
 <div style="display:flex; align-items:center; gap:8px; padding:10px; background:#1a1b26; border-radius:8px; flex-wrap:wrap;">
@@ -49,3 +49,9 @@ Algumas das tecnologias que tenho conhecimento e projetos públicos:
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original-wordmark.svg"/>
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/magento/magento-original.svg"/>
 </div>
+
+##
+[![Portfolio](https://img.shields.io/website?label=PedroLeite.com&style=for-the-badge&url=https://pedroleite3005.github.io)](https://pedroleite3005.github.io)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pbastosleite@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-leite2305/)
+
