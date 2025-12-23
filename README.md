@@ -4,7 +4,7 @@ Sou estudante de Ciência da Computação e Fullstack Developer.
 Aqui apresento um resumo das tecnologias que utilizo e alguns projetos públicos. Para mais detalhes, acesse meu site.
 
 <div style="display:flex; gap:0px;">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PedroLeite3005&show_icons=true&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PedroLeite3005&show_icons=true&theme=tokyonight"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLeite3005&layout=compact&theme=tokyonight&card_width=420"/>
 </div>
 
