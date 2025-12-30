@@ -51,7 +51,7 @@ Aqui apresento um resumo das tecnologias que utilizo e alguns projetos públicos
 </div>
 
 ##
-[![Portfolio](https://img.shields.io/website?label=PedroLeite.com&style=for-the-badge&url=https://pedroleite3005.github.io)](https://pedroleite3005.github.io)
+[![Portfolio](https://img.shields.io/website?label=PedroLeite.com&style=for-the-badge&url=https://portfoliopedro.pages.dev/)](https://portfoliopedro.pages.dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pbastosleite@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-leite2305/)
 
